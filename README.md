@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fanime%2Fcomments%2F2t2r5w%2Flooping_anime_gifs%2F&psig=AOvVaw3gxPeABJ_1KWtnDKalCqpf&ust=1701191986038000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDEvZLY5IIDFQAAAAAdAAAAABAE">
+![](http://i.imgur.com/60bts.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
