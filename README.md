@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt Text](https://media.tenor.com/SxDiq1C5IfQAAAAC/hh-whta.gif)
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
+<img src="https://media.tenor.com/SxDiq1C5IfQAAAAC/hh-whta.gif" width="100%" height="400" />
 
 
 
