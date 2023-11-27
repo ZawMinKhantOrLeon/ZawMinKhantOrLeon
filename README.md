@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![]([http://i.imgur.com/60bts.gif](https://media.tenor.com/YjZhgdi1q1AAAAAC/panic-anime.gif))
+![Alt Text](https://media.tenor.com/YjZhgdi1q1AAAAAC/panic-anime.gif)
+
 
 
   <h3 align="left">Connect with me:</h3>
