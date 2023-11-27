@@ -31,7 +31,7 @@
  <h3 align="left"><code style="color : aquamarine">My Stats: </code></h3>
  
 ![ZawMinKhant GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawMinKhantOrLeon&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZawMinKhantOrLeon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZawMinKhantOrLeon&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <p></p>
 
