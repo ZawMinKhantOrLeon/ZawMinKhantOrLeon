@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=My+Name+Is+Zaw+Min+Khant;I+Am+FullStack+Developer+From+Myanmar%2C+Mandalay)](https://git.io/typing-svg)
+![image](https://github.com/ZawMinKhantOrLeon/ZawMinKhantOrLeon/assets/149889429/68c847b6-ac02-4b68-a998-645e71d2d8a4)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=My+Name+Is+Zaw+Min+Khant;I+Am+FullStack+Developer+From+Myanmar%2C+Mandalay)](https://git.io/typing-svg)
 
 <!--
 **ZawMinKhantOrLeon/ZawMinKhantOrLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,14 +26,20 @@ Here are some ideas to get you started:
 </p>
 
 <p></p>
+<br>
+<br>
 
 ![ZawMinKhant GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawMinKhant&show_icons=true&theme=nightowl)
 
 <p></p>
+<br>
+<br>
 
-<h3 align="left" ><code style="color : aquamarine">text</code></h3>
+<h3 align="left" ><code style="color : aquamarine">Connect with me</code></h3>
+<br>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="![image](https://github.com/ZawMinKhantOrLeon/ZawMinKhantOrLeon/assets/149889429/e620cb44-b1dd-42d7-a710-a8e5c7471b68)
+" alt="" height="30" width="40" /></a>
 </p>
 
