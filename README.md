@@ -38,6 +38,6 @@
 <h3 align="left" ><code style="color : aquamarine">Connect with me</code></h3>
 
 <p align="left">
-<a href="your link" target="blank"><img align="center" src=" https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-plain.svg" alt="" height="30" width="40" /></a>
 </p>
