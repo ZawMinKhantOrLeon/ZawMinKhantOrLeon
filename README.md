@@ -36,10 +36,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZawMinKhantOrLeon&layout=compact)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZawMinKhant" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZawMinKhantOrLeon&show_icons=true&theme=nightowl" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZawMinKhant&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZawMinKhantOrLeon&layout=compact&langs_count=8&card_width=200" />
 </a>
 
 
