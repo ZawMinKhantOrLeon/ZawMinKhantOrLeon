@@ -26,14 +26,14 @@
 </p>
 
 <p></p>
-<br>
+
 
  <h3 align="left"><code style="color : aquamarine">My Stats: </code></h3>
  
 ![ZawMinKhant GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawMinKhant&show_icons=true&theme=nightowl)
 
 <p></p>
-<br>
+
 
 <h3 align="left" ><code style="color : aquamarine">Connect with me</code></h3>
 
