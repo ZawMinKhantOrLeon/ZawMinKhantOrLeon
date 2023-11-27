@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <a href="" target="_blank"> <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="c" width="40" height="40"/>
   <a href="" target="_blank"> <img src="https://worldvectorlogo.com/logo/laravel-2" alt="c" width="40" height="40"/>
    <a href="" target="_blank"> <img src="https://worldvectorlogo.com/logo/javascript-1" alt="c" width="40" height="40"/>
-    <a href="" target="_blank"> <img src="https://worldvectorlogo.com/logo/react-2" alt="c" width="40" height="40"/>
+    <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="c" width="40" height="40"/>
   
  
 </p>
