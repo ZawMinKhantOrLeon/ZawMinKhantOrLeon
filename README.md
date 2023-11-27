@@ -41,4 +41,4 @@ Here are some ideas to get you started:
   <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="c" width="40" height="40"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawMinKhantOrLeon)](https://github.com/anuraghazra/github-readme-stats)
+![ZawMinKhant GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawMinKhant&show_icons=true&theme=nightowl)
