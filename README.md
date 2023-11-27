@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+%2C+My+Name+is+Zaw+Min+Khant;I+am+Full+Stack+Web+Developer+From+Myanmar+%2C+Mandalay)](https://git.io/typing-svg)
 
 <!--
 **ZawMinKhantOrLeon/ZawMinKhantOrLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt Text](https://media.tenor.com/YjZhgdi1q1AAAAAC/panic-anime.gif)
+![Alt Text](https://media.tenor.com/SxDiq1C5IfQAAAAC/hh-whta.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 
 
