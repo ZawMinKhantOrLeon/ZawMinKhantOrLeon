@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+%2C+My+Name+is+Zaw+Min+Khant;I+am+Full+Stack+Web+Developer+From+Myanmar+%2C+Mandalay)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=My+Name+Is+Zaw+Min+Khant;I+Am+FullStack+Developer+From+Myanmar%2C+Mandalay)](https://git.io/typing-svg)
 
 <!--
 **ZawMinKhantOrLeon/ZawMinKhantOrLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,15 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://media.tenor.com/SxDiq1C5IfQAAAAC/hh-whta.gif" width="100%" height="600" />
-
-
-
-  <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
-</p>
+<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/coffee.gif" width="100%" height="500" />
 
   <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -41,5 +33,13 @@ Here are some ideas to get you started:
   <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="c" width="40" height="40"/>
   <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="c" width="40" height="40"/>
 </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+</p>
+
+
 
 ![ZawMinKhant GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawMinKhant&show_icons=true&theme=nightowl)
