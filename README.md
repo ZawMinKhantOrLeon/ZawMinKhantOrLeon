@@ -1,4 +1,3 @@
-![image](https://github.com/ZawMinKhantOrLeon/ZawMinKhantOrLeon/assets/149889429/68c847b6-ac02-4b68-a998-645e71d2d8a4)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=My+Name+Is+Zaw+Min+Khant;I+Am+FullStack+Developer+From+Myanmar%2C+Mandalay)](https://git.io/typing-svg)
 
 <!--
 **ZawMinKhantOrLeon/ZawMinKhantOrLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
