@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/coffee.gif" width="100%" height="500" />
 
-  <h3 align="left"><code style="color : Aquamarine">Language and Toos : </code></h3>
+  <h3 align="left"><code style="color : aquamarine">Language and Toos : </code></h3>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,javascript,nodejs,css,react,tailwind,bootstrap,mongodb,mysql,git,docker,vscode" />
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p></p>
 
-<h3 align="left" ><code style="color : Aquamarine">text</code></h3>
+<h3 align="left" ><code style="color : aquamarine">text</code></h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
