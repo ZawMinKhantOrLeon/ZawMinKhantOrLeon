@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
   <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="" target="_blank"> <img src="https://worldvectorlogo.com/logo/java-4" alt="c" width="40" height="40"/>
+  <a href="" target="_blank"> <img src="https://worldvectorlogo.com/logo/java-4.svg" alt="c" width="40" height="40"/>
   <a href="" target="_blank"> <img src="https://worldvectorlogo.com/logo/spring-3" alt="c" width="40" height="40"/>
   <a href="" target="_blank"> <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="c" width="40" height="40"/>
   <a href="" target="_blank"> <img src="https://worldvectorlogo.com/logo/laravel-2" alt="c" width="40" height="40"/>
