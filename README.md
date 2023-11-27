@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://media.tenor.com/SxDiq1C5IfQAAAAC/hh-whta.gif" width="100%" height="400" />
+<img src="https://media.tenor.com/SxDiq1C5IfQAAAAC/hh-whta.gif" width="100%" height="600" />
 
 
 
