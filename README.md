@@ -19,19 +19,10 @@ Here are some ideas to get you started:
 <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/coffee.gif" width="100%" height="500" />
 
   <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="c" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="c" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="c" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="c" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="c" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="c" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="c" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="c" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="c" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="c" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="c" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="c" width="40" height="40"/>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,javascript,nodejs,css,react,tailwind,bootstrap,mongodb,mysql,git,docker,vscode" />
+  </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
