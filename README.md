@@ -26,5 +26,13 @@ Here are some ideas to get you started:
 </p>
 
   <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.php.net/download-logos.php" target="_blank"> <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="c" width="40" height="40"/>
+<p align="left"> 
+  <a href="" target="_blank"> <img src="https://worldvectorlogo.com/logo/java-4" alt="c" width="40" height="40"/>
+  <a href="" target="_blank"> <img src="https://worldvectorlogo.com/logo/spring-3" alt="c" width="40" height="40"/>
+  <a href="" target="_blank"> <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="c" width="40" height="40"/>
+  <a href="" target="_blank"> <img src="https://worldvectorlogo.com/logo/laravel-2" alt="c" width="40" height="40"/>
+   <a href="" target="_blank"> <img src="https://worldvectorlogo.com/logo/javascript-1" alt="c" width="40" height="40"/>
+    <a href="" target="_blank"> <img src="https://worldvectorlogo.com/logo/react-2" alt="c" width="40" height="40"/>
+  
+ 
 </p>
