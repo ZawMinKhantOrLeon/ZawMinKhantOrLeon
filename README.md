@@ -28,17 +28,16 @@
 <p></p>
 <br>
 
-
+ <h3 align="left"><code style="color : aquamarine">My Stats: </code></h3>
+ 
 ![ZawMinKhant GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawMinKhant&show_icons=true&theme=nightowl)
 
 <p></p>
 <br>
 
-
 <h3 align="left" ><code style="color : aquamarine">Connect with me</code></h3>
 <br>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
-
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook-2.svg" alt="" height="30" width="40" /></a>
 </p>
