@@ -27,12 +27,18 @@ Here are some ideas to get you started:
 
   <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="" target="_blank"> <img src="https://worldvectorlogo.com/logo/java-4.svg" alt="c" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://worldvectorlogo.com/logo/spring-3" alt="c" width="40" height="40"/>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="c" width="40" height="40"/>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="c" width="40" height="40"/>
   <a href="" target="_blank"> <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="c" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://worldvectorlogo.com/logo/laravel-2" alt="c" width="40" height="40"/>
-   <a href="" target="_blank"> <img src="https://worldvectorlogo.com/logo/javascript-1" alt="c" width="40" height="40"/>
-    <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="c" width="40" height="40"/>
-  
- 
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="c" width="40" height="40"/>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="c" width="40" height="40"/>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="c" width="40" height="40"/>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="c" width="40" height="40"/>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="c" width="40" height="40"/>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="c" width="40" height="40"/>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="c" width="40" height="40"/>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="c" width="40" height="40"/>
+  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="c" width="40" height="40"/>
 </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
