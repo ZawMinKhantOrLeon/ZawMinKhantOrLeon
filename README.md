@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/coffee.gif" width="100%" height="400" />
+<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/coffee.gif" width="100%" height="500" />
 
 
 <p>
