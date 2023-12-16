@@ -18,7 +18,7 @@
 
 
 <p>
-  <h3 align="left"><code style="color : aquamarine">Language and Toos : </code></h3>
+  <h3 align="left"><code style="color : aquamarine">Language and Tools : </code></h3>
  <br>
   <p align="center">
   <a href="https://skillicons.dev">
