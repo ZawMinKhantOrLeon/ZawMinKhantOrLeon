@@ -14,8 +14,12 @@
 - ⚡ Fun fact: ...
 -->
 
+<div style="display:flex">
+
 <img src="https://media.tenor.com/K-BBg8fYIdQAAAAi/kirana-margay.gif" width="400" height="500" />
 <img src="https://media.tenor.com/WCXHO9M14MkAAAAi/clap-bocchi.gif" width="300" height="400" />
+
+</div>
 
 
 
