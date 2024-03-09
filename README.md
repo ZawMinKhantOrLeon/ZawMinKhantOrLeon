@@ -39,7 +39,7 @@
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZawMinKhantOrLeon&show_icons=true&theme=nightowl" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZawMinKhantOrLeon&column=4&margin-w=15&margin-h=15&theme=monokai)]
+![trophy](https://github-profile-trophy.vercel.app/?username=ZawMinKhantOrLeon&column=4&margin-w=15&margin-h=15&theme=monokai)
 
 
 
