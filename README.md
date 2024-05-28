@@ -16,7 +16,7 @@
 
 <div style="display:flex">
 
-<img src="https://miro.medium.com/v2/resize:fit:1092/1*nzki1nugukWHcLczLtVtIw.png" width="400" height="500" />
+<img src="https://miro.medium.com/v2/resize:fit:1092/1*nzki1nugukWHcLczLtVtIw.png" width="100%" height="auto" />
 
 
 </div>
